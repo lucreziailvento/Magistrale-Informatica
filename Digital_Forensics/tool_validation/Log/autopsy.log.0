@@ -1,0 +1,56 @@
+2024-09-25 12:51:46.501 org.sleuthkit.autopsy.centralrepository.datamodel.RdbmsCentralRepo upgradeSchema
+INFO: Central Repository is up to date
+2024-09-25 12:51:49.13 org.sleuthkit.autopsy.keywordsearch.Server isLocalSolrRunning
+INFO: Solr server is running
+2024-09-25 12:51:49.415 org.sleuthkit.autopsy.keywordsearch.Server startLocalSolr
+INFO: New Solr process PID: [13884]
+2024-09-25 12:51:49.415 org.sleuthkit.autopsy.keywordsearch.Server startLocalSolr
+INFO: Starting local Solr SOLR8 server
+2024-09-25 12:51:49.421 org.sleuthkit.autopsy.keywordsearch.Server isLocalSolrRunning
+INFO: Solr server is running
+2024-09-25 12:51:49.422 org.sleuthkit.autopsy.keywordsearch.Server startLocalSolr
+INFO: Local Solr SOLR8 server is already running
+2024-09-25 12:51:49.427 org.sleuthkit.autopsy.keywordsearch.Server isLocalSolrRunning
+INFO: Solr server is running
+2024-09-25 12:51:50.867 org.sleuthkit.autopsy.keywordsearch.Server$Collection <init>
+INFO: Using Solr document queue size = 30
+2024-09-25 12:52:05.969 org.sleuthkit.autopsy.imagegallery.datamodel.DrawableDB setPragmas
+INFO: sqlite-jdbc version 3.42.0.0 loaded in native mode
+2024-09-25 12:52:06.022 org.sleuthkit.autopsy.casemodule.Case openAsCurrentCase
+INFO: Opened tool validation (tool_validation_20240907_113856) in C:\Users\lucre\OneDrive - Alma Mater Studiorum Università di Bologna\magistrale\digital forensics\progetto\tool validation as the current case
+2024-09-25 12:52:06.022 org.sleuthkit.autopsy.progress.LoggingProgressIndicator progress
+INFO: Retrieving images for case: autopsy.db...
+2024-09-25 12:52:06.024 org.sleuthkit.autopsy.progress.LoggingProgressIndicator progress
+INFO: Opening all filesystems for image: ss-win-07-25-18.dd...
+2024-09-25 12:52:11.503 org.sleuthkit.autopsy.corecomponents.DataContentViewerHex <init>
+INFO: Created HexView instance: org.sleuthkit.autopsy.corecomponents.DataContentViewerHex[,0,0,0x0,invalid,layout=javax.swing.GroupLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=java.awt.Dimension[width=100,height=58]]
+2024-09-25 12:52:13.912 org.sleuthkit.autopsy.contentviewers.MediaFileViewer <init>
+INFO: Created MediaView instance: org.sleuthkit.autopsy.contentviewers.MediaFileViewer[,0,0,0x0,invalid,layout=java.awt.CardLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-09-25 12:52:15.067 org.sleuthkit.autopsy.contentviewers.FileViewer <init>
+INFO: Created ApplicationContentViewer instance: org.sleuthkit.autopsy.contentviewers.FileViewer[,0,0,0x0,invalid,layout=javax.swing.OverlayLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-09-25 12:52:15.453 org.sleuthkit.autopsy.corecomponents.DataContentTopComponent <init>
+INFO: Created DataContentTopComponent instance: org.sleuthkit.autopsy.corecomponents.DataContentTopComponent[Data Content,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=256,maximumSize=,minimumSize=,preferredSize=]
+2024-09-25 12:52:39.201 org.sleuthkit.autopsy.coreutils.StringExtract$StringExtractUnicodeTable init
+INFO: initialized, unicode table loaded
+2024-09-25 12:55:29.366 org.sleuthkit.autopsy.keywordsearch.Server stopLocalSolr
+INFO: Stopping Solr 8 server
+2024-09-25 12:55:29.367 org.sleuthkit.autopsy.keywordsearch.Server runLocalSolr8ControlCommand
+INFO: Setting Solr 8 directory: C:\Program Files\Autopsy-4.21.0\autopsy\solr
+2024-09-25 12:55:29.367 org.sleuthkit.autopsy.keywordsearch.Server runLocalSolr8ControlCommand
+INFO: Running Solr 8 command: [C:\Program Files\Autopsy-4.21.0\autopsy\solr\bin\autopsy-solr.cmd, stop, -k, jjk#09s, -p, 23232] from C:\Program Files\Autopsy-4.21.0\autopsy\solr
+2024-09-25 12:55:29.383 org.sleuthkit.autopsy.keywordsearch.Server runLocalSolr8ControlCommand
+INFO: Finished running Solr 8 command
+2024-09-25 12:55:29.383 org.sleuthkit.autopsy.keywordsearch.Server stopLocalSolr
+INFO: Waiting for Solr server to stop
+2024-09-25 12:55:30.231 org.sleuthkit.autopsy.keywordsearch.Server stopLocalSolr
+INFO: Finished stopping Solr server
+2024-09-25 12:55:30.232 org.sleuthkit.autopsy.core.Installer <init>
+INFO: core installer created
+2024-09-25 12:55:30.3 org.sleuthkit.autopsy.casemodule.Case closeCurrentCase
+INFO: Closing current case tool validation (tool_validation_20240907_113856) in C:\Users\lucre\OneDrive - Alma Mater Studiorum Università di Bologna\magistrale\digital forensics\progetto\tool validation
+2024-09-25 12:55:32.306 org.sleuthkit.autopsy.imagegallery.ImageGalleryController shutDown
+INFO: Shutting down image gallery controller for case tool validation (tool_validation_20240907_113856)
+2024-09-25 12:55:32.308 org.sleuthkit.autopsy.imagegallery.datamodel.DrawableDB close
+INFO: Closing the drawable.db
+2024-09-25 12:55:32.309 org.sleuthkit.autopsy.imagegallery.ImageGalleryController shutDown
+INFO: Completed shut down of image gallery controller for case tool validation (tool_validation_20240907_113856)

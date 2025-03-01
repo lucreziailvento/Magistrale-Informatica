@@ -1,0 +1,468 @@
+Name,"Keyword Preview",Location,"Modified Time","Change Time","Access Time","Created Time",Size,"Flags(Dir)","Flags(Meta)",Known,"MD5 Hash","SHA-256 Hash","MIME Type",Extension
+"DELETED-NFD-mice-fat-utf-8.txt","RIVER SEA 
+UTF8 ====> «Mäuse« 3285 <==== fat BlueCrab","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-NFD-mice-fat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:28 CEST",1226,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFC-mice-fat-utf-16-be.txt","Ocean 
+BOM UTF 16 BE ====> «Mäuse« 3091 <==== fat Brook
+tuna","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-NFC-mice-fat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:33 CEST",2450,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFC-mice-exfat-utf-16-be.txt","BOM UTF 16 BE ====> «Mäuse« 3103 <==== exfat Bay BlueCrab","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-NFC-mice-exfat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:32 CEST","2018-07-25 14:03:33 CEST",2456,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFD-mice-exfat-utf-16-be.txt","BOM UTF 16 BE ====> «Mäuse« 3291 <==== exfat Bay. pond","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-NFD-mice-exfat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:36 CEST","2018-07-25 14:03:37 CEST",2422,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFD-mice-ntfs-utf-16-be.txt","LAKE
+
+BOM UTF 16 BE ====> «Mäuse« 3299 <==== ntfs BlueGill","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-NFD-mice-ntfs-utf-16-be.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:10 CEST","2018-07-25 20:03:10 CEST","2018-07-25 20:03:10 CEST",2424,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFC-mice-fat-utf-16-le.txt","BOM UTF 16 LE ====> «Mäuse« 3090 <==== fat tuna tuna","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-NFC-mice-fat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:33 CEST",2442,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFC-mice-exfat-utf-16-le.txt","BOM UTF 16 LE ====> «Mäuse« 3102 <==== exfat Squid","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-NFC-mice-exfat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:32 CEST","2018-07-25 14:03:33 CEST",2510,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFD-mice-exfat-utf-16-le.txt","Bay
+
+BOM UTF 16 LE ====> «Mäuse« 3290 <==== exfat tuna.","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-NFD-mice-exfat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:36 CEST","2018-07-25 14:03:37 CEST",2406,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFD-mice-ntfs-utf-16-le.txt","BOM UTF 16 LE ====> «Mäuse« 3298 <==== ntfs Brook,","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-NFD-mice-ntfs-utf-16-le.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:10 CEST","2018-07-25 20:03:10 CEST","2018-07-25 20:03:10 CEST",2464,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFC-mice-fat-utf-8.txt","Island SHARK? 
+UTF8 ====> «Mäuse« 3089 <==== fat RIVER
+HARBOR","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-NFC-mice-fat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:33 CEST",1178,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFC-mice-exfat-utf-8.txt","pond BlueCrab
+
+UTF8 ====> «Mäuse« 3101 <==== exfat bass LAKE","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-NFC-mice-exfat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:32 CEST","2018-07-25 14:03:33 CEST",1218,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFD-mice-exfat-utf-8.txt","HARBOR tuna 
+UTF8 ====> «Mäuse« 3289 <==== exfat bass RIVER","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-NFD-mice-exfat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:36 CEST","2018-07-25 14:03:37 CEST",1184,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFD-mice-ntfs-utf-8.txt","SEA
+KingCrab
+
+UTF8 ====> «Mäuse« 3297 <==== ntfs LAKE KingCrab","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-NFD-mice-ntfs-utf-8.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:10 CEST","2018-07-25 20:03:10 CEST","2018-07-25 20:03:10 CEST",1233,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFC-mice-ntfs-utf-16-be.txt","BOM UTF 16 BE ====> «Mäuse« 3111 <==== ntfs HARBOR","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-NFC-mice-ntfs-utf-16-be.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST",2466,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFC-mice-ntfs-utf-8.txt","pond. SHARK. 
+UTF8 ====> «Mäuse« 3109 <==== ntfs SHARK
+Island","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-NFC-mice-ntfs-utf-8.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST",1198,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFC-mice-ntfs-utf-16-le.txt","Squid 
+BOM UTF 16 LE ====> «Mäuse« 3110 <==== ntfs bass Island","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-NFC-mice-ntfs-utf-16-le.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST",2382,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFD-mice-fat-utf-16-be.txt","Creek 
+BOM UTF 16 BE ====> «Mäuse« 3283 <==== fat Carp SHARK","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-NFD-mice-fat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:33 CEST",2414,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFD-mice-exfat-utf-16-be.txt","bass 
+BOM UTF 16 BE ====> «Mäuse« 3295 <==== exfat Creek","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-NFD-mice-exfat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:32 CEST","2018-07-25 14:03:33 CEST",2400,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFD-mice-fat-utf-16-le.txt","Bay 
+BOM UTF 16 LE ====> «Mäuse« 3282 <==== fat KingCrab","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-NFD-mice-fat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:33 CEST",2368,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFD-mice-exfat-utf-16-le.txt","KingCrab 
+BOM UTF 16 LE ====> «Mäuse« 3294 <==== exfat Carp SEA","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-NFD-mice-exfat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:32 CEST","2018-07-25 14:03:33 CEST",2400,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFD-mice-fat-utf-8.txt","BlueGill? pond
+
+UTF8 ====> «Mäuse« 3281 <==== fat BlueCrab","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-NFD-mice-fat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:33 CEST",1203,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFD-mice-exfat-utf-8.txt","Squid
+RIVER? 
+UTF8 ====> «Mäuse« 3293 <==== exfat Ocean","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-NFD-mice-exfat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:32 CEST","2018-07-25 14:03:33 CEST",1194,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFD-mice-ntfs-utf-16-be.txt","BOM UTF 16 BE ====> «Mäuse« 3303 <==== ntfs Trout Brook","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-NFD-mice-ntfs-utf-16-be.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST",2362,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFD-mice-ntfs-utf-16-le.txt","BOM UTF 16 LE ====> «Mäuse« 3302 <==== ntfs KingCrab","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-NFD-mice-ntfs-utf-16-le.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST",2416,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFD-mice-ntfs-utf-8.txt","tuna
+BlueCrab 
+UTF8 ====> «Mäuse« 3301 <==== ntfs BlueGill","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-NFD-mice-ntfs-utf-8.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST",1236,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFC-mice-fat-utf-16-be.txt","BOM UTF 16 BE ====> «Mäuse« 3095 <==== fat BlueCrab","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-NFC-mice-fat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:28 CEST",2454,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFC-mice-fat-utf-16-le.txt","Squid 
+BOM UTF 16 LE ====> «Mäuse« 3094 <==== fat SEA Carp","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-NFC-mice-fat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:28 CEST",2350,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFC-mice-ntfs-utf-16-be.txt","pond 
+BOM UTF 16 BE ====> «Mäuse« 3107 <==== ntfs Squid.","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-NFC-mice-ntfs-utf-16-be.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST",2450,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFC-mice-fat-utf-8.txt","SEA! HARBOR 
+UTF8 ====> «Mäuse« 3093 <==== fat Carp Squid","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-NFC-mice-fat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:28 CEST",1205,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFC-mice-exfat-utf-16-be.txt","BOM UTF 16 BE ====> «Mäuse« 3099 <==== exfat Creek","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-NFC-mice-exfat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:36 CEST","2018-07-25 14:03:37 CEST",2334,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFC-mice-exfat-utf-16-le.txt","Carp 
+BOM UTF 16 LE ====> «Mäuse« 3098 <==== exfat LAKE,","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-NFC-mice-exfat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:36 CEST","2018-07-25 14:03:37 CEST",2408,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFC-mice-ntfs-utf-16-le.txt","BOM UTF 16 LE ====> «Mäuse« 3106 <==== ntfs BlueCrab","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-NFC-mice-ntfs-utf-16-le.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST",2454,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFC-mice-exfat-utf-8.txt","Carp Brook 
+UTF8 ====> «Mäuse« 3097 <==== exfat RIVER","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-NFC-mice-exfat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:36 CEST","2018-07-25 14:03:37 CEST",1228,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFC-mice-ntfs-utf-8.txt","Squid, Brook. 
+UTF8 ====> «Mäuse« 3105 <==== ntfs BlueCrab","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-NFC-mice-ntfs-utf-8.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST",1228,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFD-mice-fat-utf-16-be.txt","Trout
+
+BOM UTF 16 BE ====> «Mäuse« 3287 <==== fat Ocean. BlueCrab","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-NFD-mice-fat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:28 CEST",2530,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFD-mice-fat-utf-16-le.txt","tuna 
+BOM UTF 16 LE ====> «Mäuse« 3286 <==== fat RIVER. RIVER","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-NFD-mice-fat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:28 CEST",2548,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFD-tomorrow-fat-utf-16-be.txt","BOM UTF 16 BE ====> «mañana« 3159 <==== fat RIVER SEA","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-NFD-tomorrow-fat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:28 CEST",2420,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFD-tomorrow-fat-utf-16-le.txt","LAKE 
+BOM UTF 16 LE ====> «mañana« 3158 <==== fat LAKE BlueCrab","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-NFD-tomorrow-fat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:28 CEST",2416,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFD-tomorrow-fat-utf-8.txt","tuna HARBOR 
+UTF8 ====> «mañana« 3157 <==== fat Squid Creek","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-NFD-tomorrow-fat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:28 CEST",1229,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFC-tomorrow-fat-utf-16-be.txt","Trout 
+BOM UTF 16 BE ====> «mañana« 2963 <==== fat Trout.","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-NFC-tomorrow-fat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:33 CEST",2418,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFC-tomorrow-exfat-utf-16-be.txt","SHARK 
+BOM UTF 16 BE ====> «mañana« 2975 <==== exfat LAKE","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-NFC-tomorrow-exfat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:32 CEST","2018-07-25 14:03:33 CEST",2452,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFD-tomorrow-exfat-utf-16-be.txt","BOM UTF 16 BE ====> «mañana« 3163 <==== exfat Bay Carp","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-NFD-tomorrow-exfat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:36 CEST","2018-07-25 14:03:37 CEST",2448,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFD-tomorrow-ntfs-utf-16-be.txt","Carp 
+BOM UTF 16 BE ====> «mañana« 3171 <==== ntfs Bay Ocean","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-NFD-tomorrow-ntfs-utf-16-be.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:10 CEST","2018-07-25 20:03:10 CEST","2018-07-25 20:03:10 CEST",2428,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFC-tomorrow-fat-utf-16-le.txt","BOM UTF 16 LE ====> «mañana« 2962 <==== fat HARBOR","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-NFC-tomorrow-fat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:33 CEST",2424,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFC-tomorrow-exfat-utf-16-le.txt","Ocean 
+BOM UTF 16 LE ====> «mañana« 2974 <==== exfat bass","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-NFC-tomorrow-exfat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:32 CEST","2018-07-25 14:03:33 CEST",2452,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFD-tomorrow-exfat-utf-16-le.txt","BOM UTF 16 LE ====> «mañana« 3162 <==== exfat Creek","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-NFD-tomorrow-exfat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:36 CEST","2018-07-25 14:03:37 CEST",2440,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFD-tomorrow-ntfs-utf-16-le.txt","BOM UTF 16 LE ====> «mañana« 3170 <==== ntfs Squid","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-NFD-tomorrow-ntfs-utf-16-le.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:10 CEST","2018-07-25 20:03:10 CEST","2018-07-25 20:03:10 CEST",2464,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFC-tomorrow-fat-utf-8.txt","LAKE HARBOR 
+UTF8 ====> «mañana« 2961 <==== fat SEA. LAKE","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-NFC-tomorrow-fat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:33 CEST",1213,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFC-tomorrow-exfat-utf-8.txt","Squid? SHARK
+
+UTF8 ====> «mañana« 2973 <==== exfat Carp","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-NFC-tomorrow-exfat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:32 CEST","2018-07-25 14:03:33 CEST",1232,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFD-tomorrow-exfat-utf-8.txt","Brook SEA 
+UTF8 ====> «mañana« 3161 <==== exfat bass","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-NFD-tomorrow-exfat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:36 CEST","2018-07-25 14:03:37 CEST",1191,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFC-tomorrow-ntfs-utf-16-be.txt","BlueCrab 
+BOM UTF 16 BE ====> «mañana« 2983 <==== ntfs Ocean","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-NFC-tomorrow-ntfs-utf-16-be.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST",2464,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFC-tomorrow-ntfs-utf-16-le.txt","RIVER
+
+BOM UTF 16 LE ====> «mañana« 2982 <==== ntfs SHARK","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-NFC-tomorrow-ntfs-utf-16-le.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST",2420,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFC-tomorrow-ntfs-utf-8.txt","Carp Brook 
+UTF8 ====> «mañana« 2981 <==== ntfs Brook","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-NFC-tomorrow-ntfs-utf-8.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST",1232,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFD-tomorrow-fat-utf-16-be.txt","pond 
+BOM UTF 16 BE ====> «mañana« 3155 <==== fat bass Trout","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-NFD-tomorrow-fat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:33 CEST",2448,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFD-tomorrow-exfat-utf-16-be.txt","RIVER 
+BOM UTF 16 BE ====> «mañana« 3167 <==== exfat Creek","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-NFD-tomorrow-exfat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:32 CEST","2018-07-25 14:03:33 CEST",2466,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFD-tomorrow-fat-utf-16-le.txt","Bay 
+BOM UTF 16 LE ====> «mañana« 3154 <==== fat KingCrab","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-NFD-tomorrow-fat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:33 CEST",2442,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFD-tomorrow-exfat-utf-16-le.txt","LAKE 
+BOM UTF 16 LE ====> «mañana« 3166 <==== exfat BlueGill","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-NFD-tomorrow-exfat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:32 CEST","2018-07-25 14:03:33 CEST",2468,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFD-tomorrow-fat-utf-8.txt","Creek
+Carp 
+UTF8 ====> «mañana« 3153 <==== fat bass
+RIVER","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-NFD-tomorrow-fat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:33 CEST",1183,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFD-tomorrow-exfat-utf-8.txt","RIVER! Brook 
+UTF8 ====> «mañana« 3165 <==== exfat SHARK","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-NFD-tomorrow-exfat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:32 CEST","2018-07-25 14:03:33 CEST",1245,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFD-tomorrow-ntfs-utf-16-be.txt","Bay 
+BOM UTF 16 BE ====> «mañana« 3175 <==== ntfs Ocean","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-NFD-tomorrow-ntfs-utf-16-be.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST",2484,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFD-tomorrow-ntfs-utf-16-le.txt","BOM UTF 16 LE ====> «mañana« 3174 <==== ntfs SEA, Creek","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-NFD-tomorrow-ntfs-utf-16-le.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST",2468,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFD-tomorrow-ntfs-utf-8.txt","bass pond. 
+UTF8 ====> «mañana« 3173 <==== ntfs RIVER","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-NFD-tomorrow-ntfs-utf-8.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST",1187,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFD-tomorrow-ntfs-utf-8.txt","KingCrab, 
+UTF8 ====> «mañana« 3169 <==== ntfs HARBOR","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-NFD-tomorrow-ntfs-utf-8.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:10 CEST","2018-07-25 20:03:10 CEST","2018-07-25 20:03:10 CEST",1228,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFC-tomorrow-fat-utf-16-be.txt","KingCrab 
+BOM UTF 16 BE ====> «mañana« 2967 <==== fat HARBOR","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-NFC-tomorrow-fat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:28 CEST",2476,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFC-tomorrow-fat-utf-16-le.txt","BOM UTF 16 LE ====> «mañana« 2966 <==== fat tuna BlueCrab","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-NFC-tomorrow-fat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:28 CEST",2478,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFC-tomorrow-fat-utf-8.txt","tuna Bay 
+UTF8 ====> «mañana« 2965 <==== fat Brook,","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-NFC-tomorrow-fat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:28 CEST",1200,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFC-tomorrow-exfat-utf-16-be.txt","BlueGill 
+BOM UTF 16 BE ====> «mañana« 2971 <==== exfat RIVER","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-NFC-tomorrow-exfat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:36 CEST","2018-07-25 14:03:37 CEST",2452,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFC-tomorrow-ntfs-utf-16-be.txt","Ocean
+
+BOM UTF 16 BE ====> «mañana« 2979 <==== ntfs Island","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-NFC-tomorrow-ntfs-utf-16-be.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST",2462,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFC-tomorrow-exfat-utf-16-le.txt","bass 
+BOM UTF 16 LE ====> «mañana« 2970 <==== exfat Brook","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-NFC-tomorrow-exfat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:36 CEST","2018-07-25 14:03:37 CEST",2508,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFC-tomorrow-ntfs-utf-16-le.txt","Bay 
+BOM UTF 16 LE ====> «mañana« 2978 <==== ntfs tuna!","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-NFC-tomorrow-ntfs-utf-16-le.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST",2360,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFC-tomorrow-exfat-utf-8.txt","BlueGill Bay
+
+UTF8 ====> «mañana« 2969 <==== exfat pond","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-NFC-tomorrow-exfat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:36 CEST","2018-07-25 14:03:37 CEST",1205,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFC-tomorrow-ntfs-utf-8.txt","LAKE. Carp 
+UTF8 ====> «mañana« 2977 <==== ntfs BlueCrab","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-NFC-tomorrow-ntfs-utf-8.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST",1223,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFC-freedom-ntfs-utf-16-be.txt","BOM UTF 16 BE ====> «libertà« 3047 <==== ntfs Squid","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-NFC-freedom-ntfs-utf-16-be.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST",2490,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFC-freedom-ntfs-utf-16-le.txt","BOM UTF 16 LE ====> «libertà« 3046 <==== ntfs Ocean","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-NFC-freedom-ntfs-utf-16-le.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST",2432,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFD-freedom-fat-utf-16-be.txt","BOM UTF 16 BE ====> «libertà« 3219 <==== fat RIVER.","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-NFD-freedom-fat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:33 CEST",2434,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFD-freedom-exfat-utf-16-be.txt","BOM UTF 16 BE ====> «libertà« 3231 <==== exfat SEA.","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-NFD-freedom-exfat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:32 CEST","2018-07-25 14:03:33 CEST",2486,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFC-freedom-ntfs-utf-8.txt","Squid. Squid. 
+UTF8 ====> «libertà« 3045 <==== ntfs Squid","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-NFC-freedom-ntfs-utf-8.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST",1270,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFD-freedom-fat-utf-16-le.txt","BOM UTF 16 LE ====> «libertà« 3218 <==== fat HARBOR","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-NFD-freedom-fat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:33 CEST",2412,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFD-freedom-exfat-utf-16-le.txt","BOM UTF 16 LE ====> «libertà« 3230 <==== exfat SHARK","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-NFD-freedom-exfat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:32 CEST","2018-07-25 14:03:33 CEST",2508,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFD-freedom-fat-utf-8.txt","Carp bass 
+UTF8 ====> «libertà« 3217 <==== fat Creek pond","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-NFD-freedom-fat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:33 CEST",1179,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFD-freedom-exfat-utf-8.txt","SEA Brook 
+UTF8 ====> «libertà« 3229 <==== exfat Bay SHARK","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-NFD-freedom-exfat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:32 CEST","2018-07-25 14:03:33 CEST",1234,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFD-freedom-ntfs-utf-16-be.txt","BOM UTF 16 BE ====> «libertà« 3239 <==== ntfs Carp,","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-NFD-freedom-ntfs-utf-16-be.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST",2480,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFD-freedom-ntfs-utf-16-le.txt","BOM UTF 16 LE ====> «libertà« 3238 <==== ntfs BlueGill","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-NFD-freedom-ntfs-utf-16-le.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST",2466,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFD-freedom-ntfs-utf-8.txt","BlueCrab. Ocean
+
+UTF8 ====> «libertà« 3237 <==== ntfs LAKE.","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-NFD-freedom-ntfs-utf-8.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST",1212,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFC-freedom-fat-utf-16-be.txt","BOM UTF 16 BE ====> «libertà« 3031 <==== fat Island","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-NFC-freedom-fat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:28 CEST",2438,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFC-freedom-fat-utf-16-le.txt","BOM UTF 16 LE ====> «libertà« 3030 <==== fat BlueCrab","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-NFC-freedom-fat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:28 CEST",2504,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFC-freedom-fat-utf-8.txt","Bay. RIVER
+
+UTF8 ====> «libertà« 3029 <==== fat Trout,","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-NFC-freedom-fat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:28 CEST",1206,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFC-freedom-exfat-utf-16-be.txt","BOM UTF 16 BE ====> «libertà« 3035 <==== exfat Squid","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-NFC-freedom-exfat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:36 CEST","2018-07-25 14:03:37 CEST",2466,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFC-freedom-ntfs-utf-16-be.txt","BOM UTF 16 BE ====> «libertà« 3043 <==== ntfs pond Bay","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-NFC-freedom-ntfs-utf-16-be.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST",2488,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFC-freedom-exfat-utf-16-le.txt","BOM UTF 16 LE ====> «libertà« 3034 <==== exfat pond","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-NFC-freedom-exfat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:36 CEST","2018-07-25 14:03:37 CEST",2392,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFC-freedom-ntfs-utf-16-le.txt","BOM UTF 16 LE ====> «libertà« 3042 <==== ntfs Brook","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-NFC-freedom-ntfs-utf-16-le.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST",2470,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFC-freedom-exfat-utf-8.txt","BlueGill HARBOR 
+UTF8 ====> «libertà« 3033 <==== exfat SEA Creek","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-NFC-freedom-exfat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:36 CEST","2018-07-25 14:03:37 CEST",1199,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFC-freedom-ntfs-utf-8.txt","BlueCrab 
+UTF8 ====> «libertà« 3041 <==== ntfs pond
+HARBOR","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-NFC-freedom-ntfs-utf-8.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST",1217,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFD-freedom-fat-utf-16-be.txt","BOM UTF 16 BE ====> «libertà« 3223 <==== fat LAKE HARBOR","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-NFD-freedom-fat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:28 CEST",2392,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFD-freedom-fat-utf-16-le.txt","BOM UTF 16 LE ====> «libertà« 3222 <==== fat BlueCrab","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-NFD-freedom-fat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:28 CEST",2432,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFD-freedom-fat-utf-8.txt","Creek pond 
+UTF8 ====> «libertà« 3221 <==== fat pond SEA","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-NFD-freedom-fat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:28 CEST",1190,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFC-freedom-fat-utf-16-be.txt","BOM UTF 16 BE ====> «libertà« 3027 <==== fat Island","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-NFC-freedom-fat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:33 CEST",2426,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFC-freedom-exfat-utf-16-be.txt","BOM UTF 16 BE ====> «libertà« 3039 <==== exfat pond","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-NFC-freedom-exfat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:32 CEST","2018-07-25 14:03:33 CEST",2466,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFD-freedom-exfat-utf-16-be.txt","BOM UTF 16 BE ====> «libertà« 3227 <==== exfat LAKE","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-NFD-freedom-exfat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:36 CEST","2018-07-25 14:03:37 CEST",2394,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFD-freedom-ntfs-utf-16-be.txt","BOM UTF 16 BE ====> «libertà« 3235 <==== ntfs Carp BlueGill","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-NFD-freedom-ntfs-utf-16-be.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST",2396,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFC-freedom-fat-utf-16-le.txt","BOM UTF 16 LE ====> «libertà« 3026 <==== fat Squid.","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-NFC-freedom-fat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:33 CEST",2458,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFC-freedom-exfat-utf-16-le.txt","BOM UTF 16 LE ====> «libertà« 3038 <==== exfat KingCrab","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-NFC-freedom-exfat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:32 CEST","2018-07-25 14:03:33 CEST",2520,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFD-freedom-exfat-utf-16-le.txt","BOM UTF 16 LE ====> «libertà« 3226 <==== exfat Bay SEA","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-NFD-freedom-exfat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:36 CEST","2018-07-25 14:03:37 CEST",2380,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFD-freedom-ntfs-utf-16-le.txt","BOM UTF 16 LE ====> «libertà« 3234 <==== ntfs KingCrab","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-NFD-freedom-ntfs-utf-16-le.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST",2360,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFC-freedom-fat-utf-8.txt","pond
+Creek. 
+UTF8 ====> «libertà« 3025 <==== fat Bay Brook","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-NFC-freedom-fat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:33 CEST",1207,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFC-freedom-exfat-utf-8.txt","SEA Brook 
+UTF8 ====> «libertà« 3037 <==== exfat Trout","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-NFC-freedom-exfat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:32 CEST","2018-07-25 14:03:33 CEST",1230,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFD-freedom-exfat-utf-8.txt","BlueCrab 
+UTF8 ====> «libertà« 3225 <==== exfat KingCrab","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-NFD-freedom-exfat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:36 CEST","2018-07-25 14:03:37 CEST",1216,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFD-freedom-ntfs-utf-8.txt","BlueCrab Bay
+
+UTF8 ====> «libertà« 3233 <==== ntfs Ocean","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-NFD-freedom-ntfs-utf-8.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST",1202,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFD-mice-fat-utf-8.txt","RIVER SEA 
+UTF8 ====> «Mäuse« 3285 <==== fat BlueCrab","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-NFD-mice-fat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:28 CEST",1226,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFC-mice-fat-utf-16-be.txt","Ocean 
+BOM UTF 16 BE ====> «Mäuse« 3091 <==== fat Brook
+tuna","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-NFC-mice-fat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:33 CEST",2450,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFC-mice-exfat-utf-16-be.txt","BOM UTF 16 BE ====> «Mäuse« 3103 <==== exfat Bay BlueCrab","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-NFC-mice-exfat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:32 CEST","2018-07-25 14:03:33 CEST",2456,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFD-mice-exfat-utf-16-be.txt","BOM UTF 16 BE ====> «Mäuse« 3291 <==== exfat Bay. pond","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-NFD-mice-exfat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:36 CEST","2018-07-25 14:03:37 CEST",2422,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFD-mice-ntfs-utf-16-be.txt","LAKE
+
+BOM UTF 16 BE ====> «Mäuse« 3299 <==== ntfs BlueGill","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-NFD-mice-ntfs-utf-16-be.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:10 CEST","2018-07-25 20:03:10 CEST","2018-07-25 20:03:10 CEST",2424,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFC-mice-fat-utf-16-le.txt","BOM UTF 16 LE ====> «Mäuse« 3090 <==== fat tuna tuna","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-NFC-mice-fat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:33 CEST",2442,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFC-mice-exfat-utf-16-le.txt","BOM UTF 16 LE ====> «Mäuse« 3102 <==== exfat Squid","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-NFC-mice-exfat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:32 CEST","2018-07-25 14:03:33 CEST",2510,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFD-mice-exfat-utf-16-le.txt","Bay
+
+BOM UTF 16 LE ====> «Mäuse« 3290 <==== exfat tuna.","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-NFD-mice-exfat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:36 CEST","2018-07-25 14:03:37 CEST",2406,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFD-mice-ntfs-utf-16-le.txt","BOM UTF 16 LE ====> «Mäuse« 3298 <==== ntfs Brook,","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-NFD-mice-ntfs-utf-16-le.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:10 CEST","2018-07-25 20:03:10 CEST","2018-07-25 20:03:10 CEST",2464,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFC-mice-fat-utf-8.txt","Island SHARK? 
+UTF8 ====> «Mäuse« 3089 <==== fat RIVER
+HARBOR","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-NFC-mice-fat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:33 CEST",1178,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFC-mice-exfat-utf-8.txt","pond BlueCrab
+
+UTF8 ====> «Mäuse« 3101 <==== exfat bass LAKE","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-NFC-mice-exfat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:32 CEST","2018-07-25 14:03:33 CEST",1218,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFD-mice-exfat-utf-8.txt","HARBOR tuna 
+UTF8 ====> «Mäuse« 3289 <==== exfat bass RIVER","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-NFD-mice-exfat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:36 CEST","2018-07-25 14:03:37 CEST",1184,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFD-mice-ntfs-utf-8.txt","SEA
+KingCrab
+
+UTF8 ====> «Mäuse« 3297 <==== ntfs LAKE KingCrab","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-NFD-mice-ntfs-utf-8.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:10 CEST","2018-07-25 20:03:10 CEST","2018-07-25 20:03:10 CEST",1233,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFC-mice-ntfs-utf-16-be.txt","BOM UTF 16 BE ====> «Mäuse« 3111 <==== ntfs HARBOR","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-NFC-mice-ntfs-utf-16-be.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST",2466,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFC-mice-ntfs-utf-8.txt","pond. SHARK. 
+UTF8 ====> «Mäuse« 3109 <==== ntfs SHARK
+Island","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-NFC-mice-ntfs-utf-8.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST",1198,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFC-mice-ntfs-utf-16-le.txt","Squid 
+BOM UTF 16 LE ====> «Mäuse« 3110 <==== ntfs bass Island","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-NFC-mice-ntfs-utf-16-le.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST",2382,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFD-mice-fat-utf-16-be.txt","Creek 
+BOM UTF 16 BE ====> «Mäuse« 3283 <==== fat Carp SHARK","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-NFD-mice-fat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:33 CEST",2414,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFD-mice-exfat-utf-16-be.txt","bass 
+BOM UTF 16 BE ====> «Mäuse« 3295 <==== exfat Creek","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-NFD-mice-exfat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:32 CEST","2018-07-25 14:03:33 CEST",2400,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFD-mice-fat-utf-16-le.txt","Bay 
+BOM UTF 16 LE ====> «Mäuse« 3282 <==== fat KingCrab","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-NFD-mice-fat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:33 CEST",2368,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFD-mice-exfat-utf-16-le.txt","KingCrab 
+BOM UTF 16 LE ====> «Mäuse« 3294 <==== exfat Carp SEA","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-NFD-mice-exfat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:32 CEST","2018-07-25 14:03:33 CEST",2400,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFD-mice-fat-utf-8.txt","BlueGill? pond
+
+UTF8 ====> «Mäuse« 3281 <==== fat BlueCrab","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-NFD-mice-fat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:33 CEST",1203,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFD-mice-exfat-utf-8.txt","Squid
+RIVER? 
+UTF8 ====> «Mäuse« 3293 <==== exfat Ocean","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-NFD-mice-exfat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:32 CEST","2018-07-25 14:03:33 CEST",1194,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFD-mice-ntfs-utf-16-be.txt","BOM UTF 16 BE ====> «Mäuse« 3303 <==== ntfs Trout Brook","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-NFD-mice-ntfs-utf-16-be.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST",2362,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFD-mice-ntfs-utf-16-le.txt","BOM UTF 16 LE ====> «Mäuse« 3302 <==== ntfs KingCrab","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-NFD-mice-ntfs-utf-16-le.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST",2416,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFD-mice-ntfs-utf-8.txt","tuna
+BlueCrab 
+UTF8 ====> «Mäuse« 3301 <==== ntfs BlueGill","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-NFD-mice-ntfs-utf-8.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST",1236,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFC-mice-fat-utf-16-be.txt","BOM UTF 16 BE ====> «Mäuse« 3095 <==== fat BlueCrab","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-NFC-mice-fat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:28 CEST",2454,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFC-mice-fat-utf-16-le.txt","Squid 
+BOM UTF 16 LE ====> «Mäuse« 3094 <==== fat SEA Carp","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-NFC-mice-fat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:28 CEST",2350,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFC-mice-ntfs-utf-16-be.txt","pond 
+BOM UTF 16 BE ====> «Mäuse« 3107 <==== ntfs Squid.","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-NFC-mice-ntfs-utf-16-be.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST",2450,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFC-mice-fat-utf-8.txt","SEA! HARBOR 
+UTF8 ====> «Mäuse« 3093 <==== fat Carp Squid","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-NFC-mice-fat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:28 CEST",1205,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFC-mice-exfat-utf-16-be.txt","BOM UTF 16 BE ====> «Mäuse« 3099 <==== exfat Creek","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-NFC-mice-exfat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:36 CEST","2018-07-25 14:03:37 CEST",2334,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFC-mice-exfat-utf-16-le.txt","Carp 
+BOM UTF 16 LE ====> «Mäuse« 3098 <==== exfat LAKE,","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-NFC-mice-exfat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:36 CEST","2018-07-25 14:03:37 CEST",2408,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFC-mice-ntfs-utf-16-le.txt","BOM UTF 16 LE ====> «Mäuse« 3106 <==== ntfs BlueCrab","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-NFC-mice-ntfs-utf-16-le.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST",2454,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFC-mice-exfat-utf-8.txt","Carp Brook 
+UTF8 ====> «Mäuse« 3097 <==== exfat RIVER","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-NFC-mice-exfat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:36 CEST","2018-07-25 14:03:37 CEST",1228,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFC-mice-ntfs-utf-8.txt","Squid, Brook. 
+UTF8 ====> «Mäuse« 3105 <==== ntfs BlueCrab","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-NFC-mice-ntfs-utf-8.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST",1228,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFD-mice-fat-utf-16-be.txt","Trout
+
+BOM UTF 16 BE ====> «Mäuse« 3287 <==== fat Ocean. BlueCrab","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-NFD-mice-fat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:28 CEST",2530,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFD-mice-fat-utf-16-le.txt","tuna 
+BOM UTF 16 LE ====> «Mäuse« 3286 <==== fat RIVER. RIVER","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-NFD-mice-fat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:28 CEST",2548,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFD-tomorrow-fat-utf-16-be.txt","BOM UTF 16 BE ====> «mañana« 3159 <==== fat RIVER SEA","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-NFD-tomorrow-fat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:28 CEST",2420,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFD-tomorrow-fat-utf-16-le.txt","LAKE 
+BOM UTF 16 LE ====> «mañana« 3158 <==== fat LAKE BlueCrab","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-NFD-tomorrow-fat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:28 CEST",2416,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFD-tomorrow-fat-utf-8.txt","tuna HARBOR 
+UTF8 ====> «mañana« 3157 <==== fat Squid Creek","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-NFD-tomorrow-fat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:28 CEST",1229,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFC-tomorrow-fat-utf-16-be.txt","Trout 
+BOM UTF 16 BE ====> «mañana« 2963 <==== fat Trout.","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-NFC-tomorrow-fat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:33 CEST",2418,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFC-tomorrow-exfat-utf-16-be.txt","SHARK 
+BOM UTF 16 BE ====> «mañana« 2975 <==== exfat LAKE","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-NFC-tomorrow-exfat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:32 CEST","2018-07-25 14:03:33 CEST",2452,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFD-tomorrow-exfat-utf-16-be.txt","BOM UTF 16 BE ====> «mañana« 3163 <==== exfat Bay Carp","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-NFD-tomorrow-exfat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:36 CEST","2018-07-25 14:03:37 CEST",2448,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFD-tomorrow-ntfs-utf-16-be.txt","Carp 
+BOM UTF 16 BE ====> «mañana« 3171 <==== ntfs Bay Ocean","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-NFD-tomorrow-ntfs-utf-16-be.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:10 CEST","2018-07-25 20:03:10 CEST","2018-07-25 20:03:10 CEST",2428,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFC-tomorrow-fat-utf-16-le.txt","BOM UTF 16 LE ====> «mañana« 2962 <==== fat HARBOR","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-NFC-tomorrow-fat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:33 CEST",2424,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFC-tomorrow-exfat-utf-16-le.txt","Ocean 
+BOM UTF 16 LE ====> «mañana« 2974 <==== exfat bass","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-NFC-tomorrow-exfat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:32 CEST","2018-07-25 14:03:33 CEST",2452,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFD-tomorrow-exfat-utf-16-le.txt","BOM UTF 16 LE ====> «mañana« 3162 <==== exfat Creek","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-NFD-tomorrow-exfat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:36 CEST","2018-07-25 14:03:37 CEST",2440,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFD-tomorrow-ntfs-utf-16-le.txt","BOM UTF 16 LE ====> «mañana« 3170 <==== ntfs Squid","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-NFD-tomorrow-ntfs-utf-16-le.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:10 CEST","2018-07-25 20:03:10 CEST","2018-07-25 20:03:10 CEST",2464,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFC-tomorrow-fat-utf-8.txt","LAKE HARBOR 
+UTF8 ====> «mañana« 2961 <==== fat SEA. LAKE","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-NFC-tomorrow-fat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:33 CEST",1213,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFC-tomorrow-exfat-utf-8.txt","Squid? SHARK
+
+UTF8 ====> «mañana« 2973 <==== exfat Carp","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-NFC-tomorrow-exfat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:32 CEST","2018-07-25 14:03:33 CEST",1232,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFD-tomorrow-exfat-utf-8.txt","Brook SEA 
+UTF8 ====> «mañana« 3161 <==== exfat bass","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-NFD-tomorrow-exfat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:36 CEST","2018-07-25 14:03:37 CEST",1191,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFC-tomorrow-ntfs-utf-16-be.txt","BlueCrab 
+BOM UTF 16 BE ====> «mañana« 2983 <==== ntfs Ocean","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-NFC-tomorrow-ntfs-utf-16-be.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST",2464,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFC-tomorrow-ntfs-utf-16-le.txt","RIVER
+
+BOM UTF 16 LE ====> «mañana« 2982 <==== ntfs SHARK","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-NFC-tomorrow-ntfs-utf-16-le.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST",2420,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFC-tomorrow-ntfs-utf-8.txt","Carp Brook 
+UTF8 ====> «mañana« 2981 <==== ntfs Brook","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-NFC-tomorrow-ntfs-utf-8.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST",1232,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFD-tomorrow-fat-utf-16-be.txt","pond 
+BOM UTF 16 BE ====> «mañana« 3155 <==== fat bass Trout","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-NFD-tomorrow-fat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:33 CEST",2448,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFD-tomorrow-exfat-utf-16-be.txt","RIVER 
+BOM UTF 16 BE ====> «mañana« 3167 <==== exfat Creek","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-NFD-tomorrow-exfat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:32 CEST","2018-07-25 14:03:33 CEST",2466,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFD-tomorrow-fat-utf-16-le.txt","Bay 
+BOM UTF 16 LE ====> «mañana« 3154 <==== fat KingCrab","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-NFD-tomorrow-fat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:33 CEST",2442,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFD-tomorrow-exfat-utf-16-le.txt","LAKE 
+BOM UTF 16 LE ====> «mañana« 3166 <==== exfat BlueGill","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-NFD-tomorrow-exfat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:32 CEST","2018-07-25 14:03:33 CEST",2468,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFD-tomorrow-fat-utf-8.txt","Creek
+Carp 
+UTF8 ====> «mañana« 3153 <==== fat bass
+RIVER","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-NFD-tomorrow-fat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:33 CEST",1183,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFD-tomorrow-exfat-utf-8.txt","RIVER! Brook 
+UTF8 ====> «mañana« 3165 <==== exfat SHARK","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-NFD-tomorrow-exfat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:32 CEST","2018-07-25 14:03:33 CEST",1245,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFD-tomorrow-ntfs-utf-16-be.txt","Bay 
+BOM UTF 16 BE ====> «mañana« 3175 <==== ntfs Ocean","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-NFD-tomorrow-ntfs-utf-16-be.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST",2484,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFD-tomorrow-ntfs-utf-16-le.txt","BOM UTF 16 LE ====> «mañana« 3174 <==== ntfs SEA, Creek","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-NFD-tomorrow-ntfs-utf-16-le.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST",2468,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFD-tomorrow-ntfs-utf-8.txt","bass pond. 
+UTF8 ====> «mañana« 3173 <==== ntfs RIVER","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-NFD-tomorrow-ntfs-utf-8.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST",1187,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFD-tomorrow-ntfs-utf-8.txt","KingCrab, 
+UTF8 ====> «mañana« 3169 <==== ntfs HARBOR","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-NFD-tomorrow-ntfs-utf-8.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:10 CEST","2018-07-25 20:03:10 CEST","2018-07-25 20:03:10 CEST",1228,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFC-tomorrow-fat-utf-16-be.txt","KingCrab 
+BOM UTF 16 BE ====> «mañana« 2967 <==== fat HARBOR","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-NFC-tomorrow-fat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:28 CEST",2476,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFC-tomorrow-fat-utf-16-le.txt","BOM UTF 16 LE ====> «mañana« 2966 <==== fat tuna BlueCrab","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-NFC-tomorrow-fat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:28 CEST",2478,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFC-tomorrow-fat-utf-8.txt","tuna Bay 
+UTF8 ====> «mañana« 2965 <==== fat Brook,","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-NFC-tomorrow-fat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:28 CEST",1200,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFC-tomorrow-exfat-utf-16-be.txt","BlueGill 
+BOM UTF 16 BE ====> «mañana« 2971 <==== exfat RIVER","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-NFC-tomorrow-exfat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:36 CEST","2018-07-25 14:03:37 CEST",2452,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFC-tomorrow-ntfs-utf-16-be.txt","Ocean
+
+BOM UTF 16 BE ====> «mañana« 2979 <==== ntfs Island","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-NFC-tomorrow-ntfs-utf-16-be.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST",2462,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFC-tomorrow-exfat-utf-16-le.txt","bass 
+BOM UTF 16 LE ====> «mañana« 2970 <==== exfat Brook","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-NFC-tomorrow-exfat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:36 CEST","2018-07-25 14:03:37 CEST",2508,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFC-tomorrow-ntfs-utf-16-le.txt","Bay 
+BOM UTF 16 LE ====> «mañana« 2978 <==== ntfs tuna!","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-NFC-tomorrow-ntfs-utf-16-le.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST",2360,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFC-tomorrow-exfat-utf-8.txt","BlueGill Bay
+
+UTF8 ====> «mañana« 2969 <==== exfat pond","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-NFC-tomorrow-exfat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:36 CEST","2018-07-25 14:03:37 CEST",1205,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFC-tomorrow-ntfs-utf-8.txt","LAKE. Carp 
+UTF8 ====> «mañana« 2977 <==== ntfs BlueCrab","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-NFC-tomorrow-ntfs-utf-8.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST",1223,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFC-freedom-ntfs-utf-16-be.txt","BOM UTF 16 BE ====> «libertà« 3047 <==== ntfs Squid","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-NFC-freedom-ntfs-utf-16-be.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST",2490,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFC-freedom-ntfs-utf-16-le.txt","BOM UTF 16 LE ====> «libertà« 3046 <==== ntfs Ocean","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-NFC-freedom-ntfs-utf-16-le.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST",2432,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFD-freedom-fat-utf-16-be.txt","BOM UTF 16 BE ====> «libertà« 3219 <==== fat RIVER.","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-NFD-freedom-fat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:33 CEST",2434,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFD-freedom-exfat-utf-16-be.txt","BOM UTF 16 BE ====> «libertà« 3231 <==== exfat SEA.","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-NFD-freedom-exfat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:32 CEST","2018-07-25 14:03:33 CEST",2486,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFC-freedom-ntfs-utf-8.txt","Squid. Squid. 
+UTF8 ====> «libertà« 3045 <==== ntfs Squid","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-NFC-freedom-ntfs-utf-8.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST",1270,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFD-freedom-fat-utf-16-le.txt","BOM UTF 16 LE ====> «libertà« 3218 <==== fat HARBOR","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-NFD-freedom-fat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:33 CEST",2412,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFD-freedom-exfat-utf-16-le.txt","BOM UTF 16 LE ====> «libertà« 3230 <==== exfat SHARK","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-NFD-freedom-exfat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:32 CEST","2018-07-25 14:03:33 CEST",2508,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFD-freedom-fat-utf-8.txt","Carp bass 
+UTF8 ====> «libertà« 3217 <==== fat Creek pond","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-NFD-freedom-fat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:33 CEST",1179,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFD-freedom-exfat-utf-8.txt","SEA Brook 
+UTF8 ====> «libertà« 3229 <==== exfat Bay SHARK","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-NFD-freedom-exfat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:32 CEST","2018-07-25 14:03:33 CEST",1234,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFD-freedom-ntfs-utf-16-be.txt","BOM UTF 16 BE ====> «libertà« 3239 <==== ntfs Carp,","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-NFD-freedom-ntfs-utf-16-be.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST",2480,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFD-freedom-ntfs-utf-16-le.txt","BOM UTF 16 LE ====> «libertà« 3238 <==== ntfs BlueGill","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-NFD-freedom-ntfs-utf-16-le.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST",2466,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFD-freedom-ntfs-utf-8.txt","BlueCrab. Ocean
+
+UTF8 ====> «libertà« 3237 <==== ntfs LAKE.","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-NFD-freedom-ntfs-utf-8.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST",1212,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFC-freedom-fat-utf-16-be.txt","BOM UTF 16 BE ====> «libertà« 3031 <==== fat Island","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-NFC-freedom-fat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:28 CEST",2438,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFC-freedom-fat-utf-16-le.txt","BOM UTF 16 LE ====> «libertà« 3030 <==== fat BlueCrab","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-NFC-freedom-fat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:28 CEST",2504,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFC-freedom-fat-utf-8.txt","Bay. RIVER
+
+UTF8 ====> «libertà« 3029 <==== fat Trout,","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-NFC-freedom-fat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:28 CEST",1206,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFC-freedom-exfat-utf-16-be.txt","BOM UTF 16 BE ====> «libertà« 3035 <==== exfat Squid","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-NFC-freedom-exfat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:36 CEST","2018-07-25 14:03:37 CEST",2466,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFC-freedom-ntfs-utf-16-be.txt","BOM UTF 16 BE ====> «libertà« 3043 <==== ntfs pond Bay","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-NFC-freedom-ntfs-utf-16-be.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST",2488,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFC-freedom-exfat-utf-16-le.txt","BOM UTF 16 LE ====> «libertà« 3034 <==== exfat pond","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-NFC-freedom-exfat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:36 CEST","2018-07-25 14:03:37 CEST",2392,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFC-freedom-ntfs-utf-16-le.txt","BOM UTF 16 LE ====> «libertà« 3042 <==== ntfs Brook","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-NFC-freedom-ntfs-utf-16-le.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST",2470,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFC-freedom-exfat-utf-8.txt","BlueGill HARBOR 
+UTF8 ====> «libertà« 3033 <==== exfat SEA Creek","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-NFC-freedom-exfat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:36 CEST","2018-07-25 14:03:37 CEST",1199,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFC-freedom-ntfs-utf-8.txt","BlueCrab 
+UTF8 ====> «libertà« 3041 <==== ntfs pond
+HARBOR","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-NFC-freedom-ntfs-utf-8.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST",1217,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFD-freedom-fat-utf-16-be.txt","BOM UTF 16 BE ====> «libertà« 3223 <==== fat LAKE HARBOR","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-NFD-freedom-fat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:28 CEST",2392,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFD-freedom-fat-utf-16-le.txt","BOM UTF 16 LE ====> «libertà« 3222 <==== fat BlueCrab","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-NFD-freedom-fat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:28 CEST",2432,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-NFD-freedom-fat-utf-8.txt","Creek pond 
+UTF8 ====> «libertà« 3221 <==== fat pond SEA","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-NFD-freedom-fat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:28 CEST",1190,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFC-freedom-fat-utf-16-be.txt","BOM UTF 16 BE ====> «libertà« 3027 <==== fat Island","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-NFC-freedom-fat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:33 CEST",2426,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFC-freedom-exfat-utf-16-be.txt","BOM UTF 16 BE ====> «libertà« 3039 <==== exfat pond","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-NFC-freedom-exfat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:32 CEST","2018-07-25 14:03:33 CEST",2466,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFD-freedom-exfat-utf-16-be.txt","BOM UTF 16 BE ====> «libertà« 3227 <==== exfat LAKE","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-NFD-freedom-exfat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:36 CEST","2018-07-25 14:03:37 CEST",2394,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFD-freedom-ntfs-utf-16-be.txt","BOM UTF 16 BE ====> «libertà« 3235 <==== ntfs Carp BlueGill","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-NFD-freedom-ntfs-utf-16-be.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST",2396,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFC-freedom-fat-utf-16-le.txt","BOM UTF 16 LE ====> «libertà« 3026 <==== fat Squid.","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-NFC-freedom-fat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:33 CEST",2458,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFC-freedom-exfat-utf-16-le.txt","BOM UTF 16 LE ====> «libertà« 3038 <==== exfat KingCrab","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-NFC-freedom-exfat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:32 CEST","2018-07-25 14:03:33 CEST",2520,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFD-freedom-exfat-utf-16-le.txt","BOM UTF 16 LE ====> «libertà« 3226 <==== exfat Bay SEA","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-NFD-freedom-exfat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:36 CEST","2018-07-25 14:03:37 CEST",2380,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFD-freedom-ntfs-utf-16-le.txt","BOM UTF 16 LE ====> «libertà« 3234 <==== ntfs KingCrab","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-NFD-freedom-ntfs-utf-16-le.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST",2360,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFC-freedom-fat-utf-8.txt","pond
+Creek. 
+UTF8 ====> «libertà« 3025 <==== fat Bay Brook","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-NFC-freedom-fat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:33 CEST",1207,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-NFC-freedom-exfat-utf-8.txt","SEA Brook 
+UTF8 ====> «libertà« 3037 <==== exfat Trout","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-NFC-freedom-exfat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:32 CEST","2018-07-25 14:03:33 CEST",1230,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-NFD-freedom-exfat-utf-8.txt","BlueCrab 
+UTF8 ====> «libertà« 3225 <==== exfat KingCrab","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-NFD-freedom-exfat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:36 CEST","2018-07-25 14:03:37 CEST",1216,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-NFD-freedom-ntfs-utf-8.txt","BlueCrab Bay
+
+UTF8 ====> «libertà« 3233 <==== ntfs Ocean","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-NFD-freedom-ntfs-utf-8.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST",1202,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-LigatureAndBeyond-fat-utf-16-be.txt","BOM UTF 16 BE ====> «infinity« 3415 <==== fat Carp?","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-LigatureAndBeyond-fat-utf-16-be.txt","2018-07-24 17:15:18 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:27 CEST",2504,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-AndBeyond-ntfs-utf-16-le.txt","BOM UTF 16 LE ====> «infinity« 3362 <==== ntfs SEA KingCrab","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-AndBeyond-ntfs-utf-16-le.txt","2018-07-24 23:15:18 CEST","2018-07-25 20:03:07 CEST","2018-07-25 20:03:07 CEST","2018-07-25 20:03:07 CEST",2436,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-AndBeyond-fat-utf-16-be.txt","BOM UTF 16 BE ====> «infinity« 3351 <==== fat KingCrab","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-AndBeyond-fat-utf-16-be.txt","2018-07-24 17:15:18 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:26 CEST",2448,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-AndBeyond-exfat-ascii.txt","bass, SEA. 
+ASCII ====> «infinity« 3352 <==== exfat Bay","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-AndBeyond-exfat-ascii.txt","2018-07-24 17:15:18 CEST","0000-00-00 00:00:00","2018-07-25 14:03:34 CEST","2018-07-25 14:03:35 CEST",1212,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-LigatureAndBeyond-fat-utf-16-le.txt","BOM UTF 16 LE ====> «infinity« 3414 <==== fat pond,","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-LigatureAndBeyond-fat-utf-16-le.txt","2018-07-24 17:15:18 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:27 CEST",2508,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-AndBeyond-fat-utf-16-le.txt","BOM UTF 16 LE ====> «infinity« 3350 <==== fat pond.","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-AndBeyond-fat-utf-16-le.txt","2018-07-24 17:15:18 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:26 CEST",2396,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-AndBeyond-exfat-utf-16-be.txt","BOM UTF 16 BE ====> «infinity« 3355 <==== exfat RIVER","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-AndBeyond-exfat-utf-16-be.txt","2018-07-24 17:15:18 CEST","0000-00-00 00:00:00","2018-07-25 14:03:34 CEST","2018-07-25 14:03:35 CEST",2428,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-LigatureAndBeyond-ntfs-utf-16-be.txt","BOM UTF 16 BE ====> «infinity« 3427 <==== ntfs SEA Bay","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-LigatureAndBeyond-ntfs-utf-16-be.txt","2018-07-24 23:15:18 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST",2386,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-LigatureAndBeyond-fat-utf-8.txt","Squid Carp
+
+UTF8 ====> «infinity« 3413 <==== fat Brook","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-LigatureAndBeyond-fat-utf-8.txt","2018-07-24 17:15:18 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:27 CEST",1232,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-AndBeyond-fat-utf-8.txt","LAKE. Creek 
+UTF8 ====> «infinity« 3349 <==== fat KingCrab","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-AndBeyond-fat-utf-8.txt","2018-07-24 17:15:18 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:26 CEST",1196,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-AndBeyond-exfat-utf-16-le.txt","BOM UTF 16 LE ====> «infinity« 3354 <==== exfat BlueGill","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-AndBeyond-exfat-utf-16-le.txt","2018-07-24 17:15:18 CEST","0000-00-00 00:00:00","2018-07-25 14:03:34 CEST","2018-07-25 14:03:35 CEST",2480,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-LigatureAndBeyond-exfat-utf-16-be.txt","BOM UTF 16 BE ====> «infinity« 3419 <==== exfat HARBOR","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-LigatureAndBeyond-exfat-utf-16-be.txt","2018-07-24 17:15:18 CEST","0000-00-00 00:00:00","2018-07-25 14:03:36 CEST","2018-07-25 14:03:36 CEST",2436,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-LigatureAndBeyond-ntfs-utf-16-le.txt","BOM UTF 16 LE ====> «infinity« 3426 <==== ntfs Island","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-LigatureAndBeyond-ntfs-utf-16-le.txt","2018-07-24 23:15:18 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST",2420,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-AndBeyond-exfat-utf-8.txt","BlueCrab. Carp, 
+UTF8 ====> «infinity« 3353 <==== exfat RIVER","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-AndBeyond-exfat-utf-8.txt","2018-07-24 17:15:18 CEST","0000-00-00 00:00:00","2018-07-25 14:03:34 CEST","2018-07-25 14:03:35 CEST",1176,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-LigatureAndBeyond-exfat-utf-16-le.txt","BOM UTF 16 LE ====> «infinity« 3418 <==== exfat tuna","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-LigatureAndBeyond-exfat-utf-16-le.txt","2018-07-24 17:15:18 CEST","0000-00-00 00:00:00","2018-07-25 14:03:36 CEST","2018-07-25 14:03:36 CEST",2526,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-LigatureAndBeyond-ntfs-utf-8.txt","Island! 
+UTF8 ====> «infinity« 3425 <==== ntfs bass","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-LigatureAndBeyond-ntfs-utf-8.txt","2018-07-24 23:15:18 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST",1190,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-LigatureAndBeyond-exfat-utf-8.txt","BlueCrab. 
+UTF8 ====> «infinity« 3417 <==== exfat Creek","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-LigatureAndBeyond-exfat-utf-8.txt","2018-07-24 17:15:18 CEST","0000-00-00 00:00:00","2018-07-25 14:03:36 CEST","2018-07-25 14:03:36 CEST",1242,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-LigatureAndBeyond-ntfs-utf-16-be.txt","BOM UTF 16 BE ====> «infinity« 3431 <==== ntfs bass","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-LigatureAndBeyond-ntfs-utf-16-be.txt","2018-07-24 23:15:18 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST",2486,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-LigatureAndBeyond-ntfs-utf-16-le.txt","BOM UTF 16 LE ====> «infinity« 3430 <==== ntfs Ocean","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-LigatureAndBeyond-ntfs-utf-16-le.txt","2018-07-24 23:15:18 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST",2534,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-LigatureAndBeyond-ntfs-utf-8.txt","BlueGill, LAKE? 
+UTF8 ====> «infinity« 3429 <==== ntfs BlueGill","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-LigatureAndBeyond-ntfs-utf-8.txt","2018-07-24 23:15:18 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST",1234,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-AndBeyond-fat-ascii.txt","tuna
+Creek 
+ASCII ====> «infinity« 3344 <==== fat HARBOR","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-AndBeyond-fat-ascii.txt","2018-07-24 17:15:18 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:31 CEST",1192,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-AndBeyond-fat-utf-16-be.txt","BOM UTF 16 BE ====> «infinity« 3347 <==== fat Squid","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-AndBeyond-fat-utf-16-be.txt","2018-07-24 17:15:18 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:31 CEST",2412,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-AndBeyond-fat-utf-16-le.txt","BOM UTF 16 LE ====> «infinity« 3346 <==== fat BlueCrab","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-AndBeyond-fat-utf-16-le.txt","2018-07-24 17:15:18 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:31 CEST",2428,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-AndBeyond-exfat-ascii.txt","KingCrab 
+ASCII ====> «infinity« 3356 <==== exfat pond","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-AndBeyond-exfat-ascii.txt","2018-07-24 17:15:18 CEST","0000-00-00 00:00:00","2018-07-25 14:03:30 CEST","2018-07-25 14:03:31 CEST",1223,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-LigatureAndBeyond-fat-utf-16-be.txt","BOM UTF 16 BE ====> «infinity« 3411 <==== fat HARBOR","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-LigatureAndBeyond-fat-utf-16-be.txt","2018-07-24 17:15:18 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:32 CEST",2466,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-AndBeyond-fat-utf-8.txt","bass bass. 
+UTF8 ====> «infinity« 3345 <==== fat SEA? Trout","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-AndBeyond-fat-utf-8.txt","2018-07-24 17:15:18 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:31 CEST",1193,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-AndBeyond-exfat-utf-16-be.txt","BOM UTF 16 BE ====> «infinity« 3359 <==== exfat KingCrab","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-AndBeyond-exfat-utf-16-be.txt","2018-07-24 17:15:18 CEST","0000-00-00 00:00:00","2018-07-25 14:03:30 CEST","2018-07-25 14:03:31 CEST",2458,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-LigatureAndBeyond-exfat-utf-16-be.txt","BOM UTF 16 BE ====> «infinity« 3423 <==== exfat BlueGill","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-LigatureAndBeyond-exfat-utf-16-be.txt","2018-07-24 17:15:18 CEST","0000-00-00 00:00:00","2018-07-25 14:03:32 CEST","2018-07-25 14:03:32 CEST",2518,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-LigatureAndBeyond-fat-utf-16-le.txt","BOM UTF 16 LE ====> «infinity« 3410 <==== fat Island","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-LigatureAndBeyond-fat-utf-16-le.txt","2018-07-24 17:15:18 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:32 CEST",2476,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-AndBeyond-exfat-utf-16-le.txt","BOM UTF 16 LE ====> «infinity« 3358 <==== exfat SHARK","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-AndBeyond-exfat-utf-16-le.txt","2018-07-24 17:15:18 CEST","0000-00-00 00:00:00","2018-07-25 14:03:30 CEST","2018-07-25 14:03:31 CEST",2482,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-LigatureAndBeyond-exfat-utf-16-le.txt","BOM UTF 16 LE ====> «infinity« 3422 <==== exfat KingCrab","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-LigatureAndBeyond-exfat-utf-16-le.txt","2018-07-24 17:15:18 CEST","0000-00-00 00:00:00","2018-07-25 14:03:32 CEST","2018-07-25 14:03:32 CEST",2552,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-LigatureAndBeyond-fat-utf-8.txt","Carp Trout, 
+UTF8 ====> «infinity« 3409 <==== fat Carp Carp","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-LigatureAndBeyond-fat-utf-8.txt","2018-07-24 17:15:18 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:32 CEST",1240,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-AndBeyond-exfat-utf-8.txt","Island
+Trout. 
+UTF8 ====> «infinity« 3357 <==== exfat KingCrab","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-AndBeyond-exfat-utf-8.txt","2018-07-24 17:15:18 CEST","0000-00-00 00:00:00","2018-07-25 14:03:30 CEST","2018-07-25 14:03:31 CEST",1205,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-LigatureAndBeyond-exfat-utf-8.txt","RIVER Brook
+
+UTF8 ====> «infinity« 3421 <==== exfat bass","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-LigatureAndBeyond-exfat-utf-8.txt","2018-07-24 17:15:18 CEST","0000-00-00 00:00:00","2018-07-25 14:03:32 CEST","2018-07-25 14:03:32 CEST",1224,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-AndBeyond-ntfs-utf-8.txt","BlueCrab. 
+UTF8 ====> «infinity« 3361 <==== ntfs Bay,","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-AndBeyond-ntfs-utf-8.txt","2018-07-24 23:15:18 CEST","2018-07-25 20:03:07 CEST","2018-07-25 20:03:07 CEST","2018-07-25 20:03:07 CEST",1188,Allocated,Allocated,unknown,,,text/plain,txt
+"Unalloc_2086_7992320_499999744","KingCrab RIVER
+ASCII ====> «infinity« 3348 <==== fat Brook","/img_ss-win-07-25-18.dd/vol_vol4/$Unalloc/Unalloc_2086_7992320_499999744","0000-00-00 00:00:00","0000-00-00 00:00:00","0000-00-00 00:00:00","0000-00-00 00:00:00",491003904,Unallocated,Unallocated,unknown,,,application/octet-stream,
+"Unalloc_2088_1000634368_1499999232","KingCrab 
+ASCII ====> «infinity« 3356 <==== exfat pond","/img_ss-win-07-25-18.dd/vol_vol6/$Unalloc/Unalloc_2088_1000634368_1499999232","0000-00-00 00:00:00","0000-00-00 00:00:00","0000-00-00 00:00:00","0000-00-00 00:00:00",498557952,Unallocated,Unallocated,unknown,,,application/octet-stream,
+"DELETED-AndBeyond-ntfs-ascii.txt","Squid Carp 
+ASCII ====> «infinity« 3364 <==== ntfs Trout","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-AndBeyond-ntfs-ascii.txt","2018-07-24 23:15:18 CEST","2018-07-25 20:03:03 CEST","2018-07-25 20:03:03 CEST","2018-07-25 20:03:03 CEST",1237,Unallocated,Unallocated,unknown,,,text/plain,txt
+"Unalloc_2090_1500142592_1999997952","Squid Carp 
+ASCII ====> «infinity« 3364 <==== ntfs Trout","/img_ss-win-07-25-18.dd/vol_vol7/$Unalloc/Unalloc_2090_1500142592_1999997952","0000-00-00 00:00:00","0000-00-00 00:00:00","0000-00-00 00:00:00","0000-00-00 00:00:00",486105088,Unallocated,Unallocated,unknown,,,application/octet-stream,
+"DELETED-AndBeyond-ntfs-utf-16-be.txt","BOM UTF 16 BE ====> «infinity« 3367 <==== ntfs Creek","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-AndBeyond-ntfs-utf-16-be.txt","2018-07-24 23:15:18 CEST","2018-07-25 20:03:03 CEST","2018-07-25 20:03:03 CEST","2018-07-25 20:03:03 CEST",2520,Unallocated,Unallocated,unknown,,,text/plain,txt
+"Unalloc_508_499999744_999999488","LAKE Brook 
+ASCII ====> «infinity« 3368 <==== unalloc LAKE","/img_ss-win-07-25-18.dd/vol_vol5/Unalloc_508_499999744_999999488","0000-00-00 00:00:00","0000-00-00 00:00:00","0000-00-00 00:00:00","0000-00-00 00:00:00",499999744,Unallocated,Unallocated,unknown,,,application/octet-stream,
+"DELETED-AndBeyond-ntfs-utf-16-le.txt","BOM UTF 16 LE ====> «infinity« 3366 <==== ntfs Brook","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-AndBeyond-ntfs-utf-16-le.txt","2018-07-24 23:15:18 CEST","2018-07-25 20:03:03 CEST","2018-07-25 20:03:03 CEST","2018-07-25 20:03:03 CEST",2440,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-AndBeyond-ntfs-utf-8.txt","BlueGill. SHARK. 
+UTF8 ====> «infinity« 3365 <==== ntfs RIVER","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-AndBeyond-ntfs-utf-8.txt","2018-07-24 23:15:18 CEST","2018-07-25 20:03:03 CEST","2018-07-25 20:03:03 CEST","2018-07-25 20:03:03 CEST",1232,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-AndBeyond-ntfs-ascii.txt","Ocean. bass? 
+ASCII ====> «infinity« 3360 <==== ntfs HARBOR","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-AndBeyond-ntfs-ascii.txt","2018-07-24 23:15:18 CEST","2018-07-25 20:03:07 CEST","2018-07-25 20:03:07 CEST","2018-07-25 20:03:07 CEST",1212,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-AndBeyond-ntfs-utf-16-be.txt","BOM UTF 16 BE ====> «infinity« 3363 <==== ntfs Carp","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-AndBeyond-ntfs-utf-16-be.txt","2018-07-24 23:15:18 CEST","2018-07-25 20:03:07 CEST","2018-07-25 20:03:07 CEST","2018-07-25 20:03:07 CEST",2450,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-AndBeyond-fat-ascii.txt","KingCrab RIVER
+
+ASCII ====> «infinity« 3348 <==== fat Brook","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-AndBeyond-fat-ascii.txt","2018-07-24 17:15:18 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:26 CEST",1249,Unallocated,Unallocated,unknown,,,text/plain,txt

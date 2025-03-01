@@ -1,0 +1,19 @@
+Name,"Keyword Preview",Location,"Modified Time","Change Time","Access Time","Created Time",Size,"Flags(Dir)","Flags(Meta)",Known,"MD5 Hash","SHA-256 Hash","MIME Type",Extension
+"LIVE-MFT-Ursa-mft-utf-8.txt","l shark 
+utf8 ====> «bear« 7009 <==== mft lake","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-MFT-Ursa-mft-utf-8.txt","2018-07-24 23:15:18 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST",160,Allocated,Allocated,unknown,,,text/plain,txt
+"$MFT","k bay. 
+ascii ====> «bear« 7012 <==== mft lake","/img_ss-win-07-25-18.dd/vol_vol7/$MFT","2018-07-25 19:07:31 CEST","2018-07-25 19:07:31 CEST","2018-07-25 19:07:31 CEST","2018-07-25 19:07:31 CEST",524288,Allocated,Allocated,unknown,,,application/octet-stream,
+"DELETED-MFT-Ursa-mft-ascii.txt","k bay. 
+ascii ====> «bear« 7012 <==== mft lake","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-MFT-Ursa-mft-ascii.txt","2018-07-24 23:15:18 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST",162,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-MFT-Ursa-mft-utf-16-be.txt","bom utf 16 be ====> «bear« 7015 <==== mft ocea","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-MFT-Ursa-mft-utf-16-be.txt","2018-07-24 23:15:18 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST",366,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-MFT-Ursa-mft-utf-16-le.txt","bom utf 16 le ====> «bear« 7014 <==== mft ocea","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-MFT-Ursa-mft-utf-16-le.txt","2018-07-24 23:15:18 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST",362,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-MFT-Ursa-mft-utf-8.txt","t
+ocean
+
+utf8 ====> «bear« 7013 <==== mft broo","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-MFT-Ursa-mft-utf-8.txt","2018-07-24 23:15:18 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST","2018-07-25 20:03:05 CEST",157,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-MFT-Ursa-mft-ascii.txt","d
+tuna
+
+ascii ====> «bear« 7008 <==== mft shar","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-MFT-Ursa-mft-ascii.txt","2018-07-24 23:15:18 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST",155,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-MFT-Ursa-mft-utf-16-be.txt","bom utf 16 be ====> «bear« 7011 <==== mft rive","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-MFT-Ursa-mft-utf-16-be.txt","2018-07-24 23:15:18 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST",360,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-MFT-Ursa-mft-utf-16-le.txt","bom utf 16 le ====> «bear« 7010 <==== mft trou","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-MFT-Ursa-mft-utf-16-le.txt","2018-07-24 23:15:18 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST","2018-07-25 20:03:09 CEST",338,Allocated,Allocated,unknown,,,text/plain,txt

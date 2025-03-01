@@ -1,0 +1,1 @@
+Il progetto di digital forensic è stato basato sul string search tool validation usando i benchmark forniti dal sito ufficiale del NIST

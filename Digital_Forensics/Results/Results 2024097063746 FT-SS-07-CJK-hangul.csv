@@ -1,0 +1,28 @@
+Name,"Keyword Preview",Location,"Modified Time","Change Time","Access Time","Created Time",Size,"Flags(Dir)","Flags(Meta)",Known,"MD5 Hash","SHA-256 Hash","MIME Type",Extension
+"LIVE-Seoul-fat-utf-16-be.txt","bom utf 16 be ====> «서울« 2371 <==== fat tuna","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-Seoul-fat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:34 CEST",2404,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-Seoul-exfat-utf-16-be.txt","bom utf 16 be ====> «서울« 2383 <==== exfat bl","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-Seoul-exfat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:34 CEST","2018-07-25 14:03:34 CEST",2502,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-Seoul-fat-utf-16-le.txt","bom utf 16 le ====> «서울« 2370 <==== fat king","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-Seoul-fat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:34 CEST",2422,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-Seoul-exfat-utf-16-le.txt","bom utf 16 le ====> «서울« 2382 <==== exfat cr","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-Seoul-exfat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:34 CEST","2018-07-25 14:03:34 CEST",2348,Unallocated,Unallocated,unknown,,,text/plain,txt
+LIVE-Seoul-fat-utf-8.txt,"p
+trout
+
+utf8 ====> «서울« 2369 <==== fat trou","/img_ss-win-07-25-18.dd/vol_vol4/fat/LIVE-Seoul-fat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:34 CEST",1197,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-Seoul-exfat-utf-8.txt","b squid 
+utf8 ====> «서울« 2381 <==== exfat sh","/img_ss-win-07-25-18.dd/vol_vol6/exfat/DELETED-Seoul-exfat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:34 CEST","2018-07-25 14:03:34 CEST",1197,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-Seoul-ntfs-utf-16-be.txt","bom utf 16 be ====> «서울« 2391 <==== ntfs oce","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-Seoul-ntfs-utf-16-be.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:06 CEST","2018-07-25 20:03:06 CEST","2018-07-25 20:03:06 CEST",2414,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-Seoul-ntfs-utf-16-le.txt","bom utf 16 le ====> «서울« 2390 <==== ntfs blu","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-Seoul-ntfs-utf-16-le.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:06 CEST","2018-07-25 20:03:06 CEST","2018-07-25 20:03:06 CEST",2460,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-Seoul-fat-utf-16-be.txt","bom utf 16 be ====> «서울« 2375 <==== fat shar","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-Seoul-fat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:28 CEST",2390,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-Seoul-ntfs-utf-8.txt","s
+trout 
+utf8 ====> «서울« 2389 <==== ntfs cre","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/DELETED-Seoul-ntfs-utf-8.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:06 CEST","2018-07-25 20:03:06 CEST","2018-07-25 20:03:06 CEST",1243,Unallocated,Unallocated,unknown,,,text/plain,txt
+"DELETED-Seoul-fat-utf-16-le.txt","bom utf 16 le ====> «서울« 2374 <==== fat bass","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-Seoul-fat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:28 CEST",2386,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-Seoul-ntfs-utf-16-be.txt","bom utf 16 be ====> «서울« 2387 <==== ntfs riv","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-Seoul-ntfs-utf-16-be.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:10 CEST","2018-07-25 20:03:10 CEST","2018-07-25 20:03:10 CEST",2454,Allocated,Allocated,unknown,,,text/plain,txt
+"DELETED-Seoul-fat-utf-8.txt","d? pond 
+utf8 ====> «서울« 2373 <==== fat bass","/img_ss-win-07-25-18.dd/vol_vol4/fat/DELETED-Seoul-fat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 00:00:00 CEST","2018-07-25 14:02:28 CEST",1189,Unallocated,Unallocated,unknown,,,text/plain,txt
+"LIVE-Seoul-exfat-utf-16-be.txt","bom utf 16 be ====> «서울« 2379 <==== exfat is","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-Seoul-exfat-utf-16-be.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:38 CEST","2018-07-25 14:03:38 CEST",2434,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-Seoul-ntfs-utf-16-le.txt","bom utf 16 le ====> «서울« 2386 <==== ntfs blu","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-Seoul-ntfs-utf-16-le.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:10 CEST","2018-07-25 20:03:10 CEST","2018-07-25 20:03:10 CEST",2408,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-Seoul-exfat-utf-16-le.txt","bom utf 16 le ====> «서울« 2378 <==== exfat tr","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-Seoul-exfat-utf-16-le.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:38 CEST","2018-07-25 14:03:38 CEST",2386,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-Seoul-ntfs-utf-8.txt","ingcrab 
+utf8 ====> «서울« 2385 <==== ntfs squ","/img_ss-win-07-25-18.dd/vol_vol7/ntfs/LIVE-Seoul-ntfs-utf-8.txt","2018-07-24 23:15:16 CEST","2018-07-25 20:03:10 CEST","2018-07-25 20:03:10 CEST","2018-07-25 20:03:10 CEST",1191,Allocated,Allocated,unknown,,,text/plain,txt
+"LIVE-Seoul-exfat-utf-8.txt","d river 
+utf8 ====> «서울« 2377 <==== exfat sq","/img_ss-win-07-25-18.dd/vol_vol6/exfat/LIVE-Seoul-exfat-utf-8.txt","2018-07-24 17:15:16 CEST","0000-00-00 00:00:00","2018-07-25 14:03:38 CEST","2018-07-25 14:03:38 CEST",1195,Allocated,Allocated,unknown,,,text/plain,txt

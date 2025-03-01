@@ -1,0 +1,2 @@
+Prefetch Directory is  C:\Users\lucre\AppData\Local\Temp\Autopsy\tool_validation_20240907_113856\Temp\RecentActivity\1-Autopsy_PF_DB.db3_1
+DB file is  C:\Users\lucre\OneDrive - Alma Mater Studiorum Università di Bologna\magistrale\digital forensics\progetto\tool validation\ModuleOutput\prefetch\1-Autopsy_PF_DB.db3
