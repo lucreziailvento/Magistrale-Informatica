@@ -1,0 +1,1 @@
+Per il progetto di NLP è stato creato un chatbot in DialogFlow CX per i suggerimenti di film basandosi su preferenze dell'utente; il tutto in linguaggio naturale.
