@@ -1,0 +1,1 @@
+La cartella continene una serie di modelli eseguibili in Minizinc

@@ -1,0 +1,18 @@
+{
+    "openFiles": [
+        "Puzzle.mzn",
+        "Puzzle1.mzn",
+	"puzzle_global.mzn",
+	"puzzle_global1.mzn"
+    ],
+    "openTab": 1,
+    "projectFiles": [
+        "Puzzle.mzn",
+        "Puzzle1.mzn",
+	"puzzle_global.mzn",
+	"puzzle_global1.mzn"
+    ],
+    "selectedBuiltinConfigId": "org.gecode.gecode",
+    "selectedBuiltinConfigVersion": "6.3.0",
+    "version": 106
+}

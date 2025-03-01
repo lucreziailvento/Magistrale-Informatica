@@ -1,0 +1,26 @@
+{
+    "openFiles": [
+        "nqueens_rc3.mzn",
+        "nqueens_alldiff.mzn",
+        "nqueens_alldiffsym.mzn",
+        "nqueens_r.mzn",
+        "nqueens_rc.mzn",
+        "nqueens_rc2.mzn",
+	"decomp.mzn",
+	"Nqueen_diagonal.mzn"
+    ],
+    "openTab": 5,
+    "projectFiles": [
+        "nqueens_alldiff.mzn",
+        "nqueens_alldiffsym.mzn",
+        "nqueens_r.mzn",
+        "nqueens_rc.mzn",
+        "nqueens_rc2.mzn",
+        "nqueens_rc3.mzn",
+	"decomp.mzn",
+	"Nqueen_diagonal.mzn"
+    ],
+    "selectedBuiltinConfigId": "org.gecode.gecode",
+    "selectedBuiltinConfigVersion": "6.3.0",
+    "version": 106
+}

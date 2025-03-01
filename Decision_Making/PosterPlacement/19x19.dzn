@@ -1,0 +1,8 @@
+n = 14; %number of poster
+max_width = 19; 
+max_height = 19;
+
+%Original order
+widths = [4, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 4, 4];
+heights = [7, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 19, 5, 6];
+

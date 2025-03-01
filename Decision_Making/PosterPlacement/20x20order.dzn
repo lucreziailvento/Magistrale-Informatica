@@ -1,0 +1,10 @@
+n = 14;
+max_width = 20;
+max_height = 20;
+
+
+%order by decreasing perimeter
+widths = [4,3,4,3,3,4,3,3,3,3,3,3,4,3];
+heights = [17,17,11,11,10,9,9,8,7,6,5,4,3,3];
+
+%compare static order with dynamic orders and then compare the result to another static order.
